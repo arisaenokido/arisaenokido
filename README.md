@@ -1,7 +1,10 @@
-# Hi, I'm Arisa!
+# Hi, I'm Arisa :]
 
-### I'm Currently a first year UBC student, studying International Economics.
-#### I enjoy coding in Python and Javascript. Take a look at my past projects from my Data Science course!!
+🎓 First-year student at UBC studying **International Economics** 📈  
+💻 I enjoy coding in **Python** and **JavaScript**
+
+Though I’m not currently working on any projects, feel free to explore some of my past projects from my **Data Science course**!
+
 
 <!--
 **arisaenokido/arisaenokido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
