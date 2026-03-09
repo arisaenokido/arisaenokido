@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Arisa!
+
+# I'm Currently a first year UBC student, studying International Economics.
 
 <!--
 **arisaenokido/arisaenokido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
